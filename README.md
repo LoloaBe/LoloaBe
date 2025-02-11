@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LoloaBe
-- 🌱 I’m currently learning creating AI Agents, ping me for ideas!
+- 🌱 I’m currently learning how to build AI Agents, ping me for ideas!
 
 <!---
 LoloaBe/LoloaBe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
